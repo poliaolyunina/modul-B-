@@ -6,6 +6,14 @@ from PyQt5.QtCore import *
 from PyQt5.QtGui import *
 import tkinter as  tk 
 
+def run():
+    app = QApplication(sys.argv)
+    window = QMainWindow ()
+    window.show()
+    sys.exit(app.exec())
+
+if __name__ == '__main__':
+    run()
 
 root = tk.Tk()
 frame = tk.Frame(root, background = "black")
@@ -274,4 +282,5 @@ if __name__ == "__main__":
     window = MainWindow()
     window.show()
     sys.exit(app.exec_())
+
 
