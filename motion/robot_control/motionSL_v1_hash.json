@@ -1,0 +1,26 @@
+[
+    {
+        "type": "motion_spec_v1.MotionProgram",
+        "hash": "0x8521a67b"
+    },
+    {
+        "type": "motion_spec_v1.MotionProgramList",
+        "hash": "0xee356e3a"
+    },
+    {
+        "type": "motion_spec_v1.CartToJoint",
+        "hash": "0x885e4a7f"
+    },
+    {
+        "type": "motion_spec_v1.CartToJointList",
+        "hash": "0x9a66947c"
+    },
+    {
+        "type": "motion_spec_v1.JointToCart",
+        "hash": "0xfc48e77a"
+    },
+    {
+        "type": "motion_spec_v1.JointToCartList",
+        "hash": "0xd4b4a2a9"
+    }
+]
